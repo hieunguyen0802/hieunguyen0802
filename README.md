@@ -92,10 +92,10 @@
 <br/>
 
 ## Projects -
-[![MVC App](https://github-readme-stats.vercel.app/api/pin/?username=hieunguyen0802&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hieunguyen0802/VAS-TravelForm)
-[![Fullstack .Net & React](https://github-readme-stats.vercel.app/api/pin/?username=hieunguyen0802&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hieunguyen0802/vas-summer-handbook-app)
-[![DSA & Leetcode practice](https://github-readme-stats.vercel.app/api/pin/?username=hieunguyen0802&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hieunguyen0802/Leetcode-practice)
-[![TCU AI Reversi](https://github-readme-stats.vercel.app/api/pin/?username=hieunguyen0802&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hieunguyen0802/TCU-AI)
+[![MVC App](https://github-readme-stats.vercel.app/api/pin/?username=hieunguyen0802&repo=VAS-TravelForm&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hieunguyen0802/VAS-TravelForm)
+[![Fullstack .Net & React](https://github-readme-stats.vercel.app/api/pin/?username=hieunguyen0802&repo=vas-summer-handbook-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hieunguyen0802/vas-summer-handbook-app)
+[![DSA & Leetcode practice](https://github-readme-stats.vercel.app/api/pin/?username=hieunguyen0802&repo=Leetcode-practice&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hieunguyen0802/Leetcode-practice)
+[![TCU AI Reversi](https://github-readme-stats.vercel.app/api/pin/?username=hieunguyen0802&repo=TCU-AI&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/hieunguyen0802/TCU-AI)
 
 <p align="left">
   <a href="https://github.com/hieunguyen0802?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -108,10 +108,10 @@
 
 
 <a> 
-    <a href="https://github.com/hieunguyen0802"><img alt="My Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/hieunguyen0802"><img alt="My Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/hieunguyen0802"><img alt="My Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hieunguyen0802&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/hieunguyen0802"><img alt="My Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hieunguyen0802&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![My Graph](https://github-readme-activity-graph.vercel.app/graph?username=hieunguyen0802&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![My Graph](https://github-readme-activity-graph.vercel.app/graph?username=hieunguyen0802&custom_title=My%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
