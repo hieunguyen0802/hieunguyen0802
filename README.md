@@ -14,7 +14,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello !, It is me
-                <b><a target="_blank" href="https://alsiam.com">Hieu Nguyen</a></b>
+                <b><a target="_blank" href="https://hieunguyen0802.github.io">Hieu Nguyen</a></b>
         </samp>
 </h3>
 
@@ -30,10 +30,10 @@
 
 <p align="center">
  <a href="https://hieunguyen0802.github.io" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" />
  </a>
  <a href="https://linkedin.com/in/hieunguyen0802" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
